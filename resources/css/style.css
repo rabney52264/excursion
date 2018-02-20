@@ -1,0 +1,44 @@
+body { 
+    background: grey;
+     }
+
+h1   {
+    font-family: Verdana;
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+     }
+
+h2   {
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+     }
+
+#excursionCopyRight
+    {
+    
+    text-align: right;
+    color: white;
+    
+     }
+
+.download   {
+    
+    text-align: center;
+    font-size: 14px;
+            }
+
+a:link {
+    color: aquamarine;
+}
+
+
+
+a:hover {
+    
+    color:blue;
+}
